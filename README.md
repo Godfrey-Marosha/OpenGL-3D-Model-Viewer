@@ -21,7 +21,7 @@ PyGame
 ## Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/opengl-3d-model-viewer.git
+git clone https://github.com/Godfrey-Marosha/OpenGL-3D-Model-Viewer.git 
 
 cd opengl-project
 pip install --user PyOpenGL PyOpenGL_accelerate pygame
